@@ -32,4 +32,4 @@ WeatherSnap is the snappy weather app that gives you instant weather updates wit
 ```javascript
 const apiKey = 'your_openweathermap_api_key';
 
-Crafted with ❤️ by https://github.com/poojashankar03
+
